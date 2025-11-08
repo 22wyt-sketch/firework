@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="r4ly8-[@/V]kfF4pI|=Y" x="0" y="0"></block><block type="device_forever" id="6PCwVz4cP?WpKrOO:;x4" x="250" y="1"></block><block type="device_button_event" id="jUrMHv2pMT@Kb.J4RoUE" x="95" y="241"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="_V$HU1RP3C*r^4:;yi!L"><field name="LEDS">`
+        # # . # # 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="gJcV]~TNdfZJQy#BYWa9"><field name="LEDS">`
+        # # . # # 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id=",)WDO^)u,J0KUMJ0Iqe="><field name="LEDS">`
+        # # . # # 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="basic_show_icon" id="%N5%B%B$H!@q9W8O`8WI"><field name="i">IconNames.SmallDiamond</field><next><block type="basic_show_icon" id="G75H/#u4PlOD$vJIa0(B"><field name="i">IconNames.Chessboard</field><next><block type="device_clear_display" id="X-Unpp0@h/]6|KG,?)#D"></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="ElnA0laxl#~B6p1v9*PF" x="399" y="243"><field name="NAME">Gesture.Shake</field></block></xml>
